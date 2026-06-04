@@ -1,0 +1,9 @@
+Lang=['java','python','c','c++']
+print(Lang)
+print(type(Lang))
+Lang=('java','python','c','c++')
+print(Lang)
+print(type(Lang))
+Lang={'java','python','c','c++'}
+print(Lang)
+print(type(Lang))
